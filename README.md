@@ -2,6 +2,12 @@
 List of previous talks from MYCocoaHeads meetups. We are on <a href="https://www.facebook.com/groups/mycocoaheads/" target="_blank">Facebook</a> and <a href="http://mycocoaheads.herokuapp.com" target="_blank">Slack</a>!
 
 
+## September 2016
+
+- Migrating to Swift 3 by <a href="https://www.facebook.com/sergioutama" target="_blank">Sergio Utama</a>
+  - <a href="https://speakerdeck.com/sergioutama/migrating-to-swift-3" target="_blank">Slide</a>
+
+
 ## March 2016
 
 - Realm Database by <a href="https://www.facebook.com/jayz.2.u?fref=nf" target="_blank">Muhammad Hijazi</a>
