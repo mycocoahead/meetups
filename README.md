@@ -1,6 +1,15 @@
 # MYCocoaHeads meetups
 List of previous talks from MYCocoaHeads meetups. We are on <a href="https://www.facebook.com/groups/mycocoaheads/" target="_blank">Facebook</a> and <a href="http://mycocoaheads.herokuapp.com" target="_blank">Slack</a>!
 
+## November 2016
+
+- Snooping API endpoints using Charles by <a href="https://www.facebook.com/axelkee" target="_blank">Axel Kee</a>
+  - <a href="https://u.nya.is/okfjjv.pdf" target="_blank">Slides</a>
+  - <a href="https://github.com/antekarin/ios-ssl-pinning" target="_blank">Source code</a>
+
+- Tools for iOS development by <a href="https://www.facebook.com/alienxp03" target="_blank">Azuan</a>
+  - <a href="https://speakerdeck.com/alienxp03/ios-tools" target="_blank">Slides</a>
+
 
 ## September 2016
 
